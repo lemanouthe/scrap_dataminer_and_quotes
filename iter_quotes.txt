@@ -1,0 +1,102 @@
+{
+'Albert Einstein':'“Anyone who has never made a mistake has never tried anything new.”'
+
+'J.K. Rowling':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'Jane Austen':'“Anyone who has never made a mistake has never tried anything new.”'
+
+'Marilyn Monroe':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'André Gide':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Thomas A. Edison':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Eleanor Roosevelt':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'Steve Martin':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Bob Marley':'“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”'
+
+'Dr. Seuss':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'Douglas Adams':'“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”'
+
+'Elie Wiesel':'“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”'
+
+'Friedrich Nietzsche':'“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”'
+
+'Mark Twain':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'Allen Saunders':'“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”'
+
+'Pablo Neruda':'“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”'
+
+'Ralph Waldo Emerson':'“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”'
+
+'Mother Teresa':'“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”'
+
+'Garrison Keillor':'“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”'
+
+'Jim Henson':'“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”'
+
+'Charles M. Schulz':'“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”'
+
+'William Nicholson':'“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”'
+
+'Jorge Luis Borges':'“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”'
+
+'George Eliot':'“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”'
+
+'George R.R. Martin':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'C.S. Lewis':'“Anyone who has never made a mistake has never tried anything new.”'
+
+'Martin Luther King Jr.':'“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”'
+
+'James Baldwin':'“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”'
+
+'Haruki Murakami':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'Alexandre Dumas fils':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'Stephenie Meyer':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'Ernest Hemingway':'“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”'
+
+'Helen Keller':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'George Bernard Shaw':'“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”'
+
+'Charles Bukowski':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'Suzanne Collins':'“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”'
+
+'J.R.R. Tolkien':'“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”'
+
+'Alfred Tennyson':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'Terry Pratchett':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'J.D. Salinger':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'George Carlin':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'John Lennon':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'W.C. Fields':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'Ayn Rand':'“If I had a flower for every time I thought of you...I could walk through my garden forever.”'
+
+'Jimi Hendrix':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'J.M. Barrie':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'E.E. Cummings':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'Khaled Hosseini':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'Harper Lee':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+'Madeleine L'Engle':'“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”'
+
+}

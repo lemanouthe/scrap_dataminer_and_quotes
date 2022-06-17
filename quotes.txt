@@ -1,0 +1,18 @@
+{
+'Albert Einstein':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'J.K. Rowling':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Jane Austen':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Marilyn Monroe':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'André Gide':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Thomas A. Edison':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Eleanor Roosevelt':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+'Steve Martin':'“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”'
+
+}
